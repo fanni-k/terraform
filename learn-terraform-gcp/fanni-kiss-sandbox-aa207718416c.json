@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fanni-kiss-sandbox",
+  "private_key_id": "aa207718416cf377e7b9e16487e2b5f83badec9c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDeBi9u6I/XuTao\n8M7uWy2XSgWj5EqjP6P1+W7NGOMDkjxsl8PslRuIuJEn/9lSC4ATeQfceGHnjee1\n3g+9fh8RPsDDIS3XKmmibJBbDFA4Yo4yYLbLY2EjKV0SwsCLnMWvS1TTwTazmUEl\nxM2QJ4QvFKoIgopeX8dioEgQzHWMG0y2aYuG00Xhqfnfo5mOraG6jev3XZXqb5n8\nSRz6yGj7YulYb/kna8Q9DnWCRzcvh0O2xccLRIWRQ/s0EkC+XXr/upLJYafYI6+q\nYNGZ4MzWp13rTM0e5Qfa7XIhjPmzGOwostWdISqa5xTKei2dH/OPR+nGHQyEVt62\nSnq46VVDAgMBAAECggEACBkPp9WW/CucNm3kuPAzFH6LAB72ffJ3R3nGic0rkoNw\nmBayUFxhObZe96eERKgjZBJuWqM6vEMCaDFmP5IXDf5M8juxO/98Wi6S1qSh/xHR\nKpM5Ij1IsLX0gsJUWtiSo+x1IUK90lp3ntSzxAXnnf6nSPzXO86ggL9kgYBY6o2O\n8Y9/8c5q0NZA4DrJu31YBmwl92T3Ml5S9IBVm+bEcj0S3LvMJVjkC0bBTy8O6HvM\nBeqnqirCzBXrnSjPx85mWXdcqtmC/5liIfEYWSzf9kn5iza5bWC8K9LYqrk4jZbg\nLklt7BBHdHecVj7QVOzY2HZ89HLweSjOM5kltSv9qQKBgQD4w+YTu0qB5G1/Vq9R\nKnQWGj07GSTmLwIky0oVc0xOAsKXRuw2IWtxF8+gplg8+5kib9GmQkmWxs5DetyL\ngfyu2vvcpZFMc0oAfImS8MSHQ0GbTr5Bh9XEsAPEXwMcOmeMvHOXi/a+SVhlwt61\nUjmak5ZWMdRjT2JsLfkDoWBWDwKBgQDkezHOHnX08QUIWjlddcfb+YuEeKoBF0MM\nSis/xCIkN3kKXnu06B3y9Bvj92sYGLkiM0g1i6OLa5npzRWe5K5kIUb/TQcHas6T\nJ+0Py0lYaFCuB04KD9lMLOj7zx3hdFPLLodndhDzHFu53K44vXCZmfwJSWXfEQwT\n0IlNSh4hjQKBgHkBmb5JYZHTkqvZd8hMlVFXDCfeMEPD5BAPzwamIhzkXNGHT0l5\ncjD9+yJTKCLp4/CLYfi0z+UG6biLYBKAdXB81vzakNYWUo3wBl+yvHZrcdNhN0zb\nDVHyqLJx4SpvAoXD+ZpjG/At71D4vKqIx7p4Ri3BaWWxbNfgePuaGSljAoGBAIDp\npXtHooQ2LQG+bll2J/LMhNSUhE8jQdhATNCoqB7JEckw8BltUeCPrODd65Xn9ST/\nzEEx7W+voWLSLN2+50ploDpRyqJ7t9w9jbr4lwSDrunSA00YDiG1wSq6fICFcvXT\n5eARNJUGrhZbFg27jTmNMTBIMms+ohLX+XAbXo7NAoGBAMdGXkmxvTgxFOI1yBDN\nf68lYkWO9uuONvizxn2u/MehuxMY7YZS3o4e5PQtnQY3ATosTX0jObcGPsNYnv7+\no016ikp1mnRUfAAfdzGhCHyU+uNw+VsDZIePibuRQvvdVyacuxKWuDqqXkR6k8dl\nXdUIgZ3LY4pzICS29a3+NgCx\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account-22-03-22@fanni-kiss-sandbox.iam.gserviceaccount.com",
+  "client_id": "115443221647413328324",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account-22-03-22%40fanni-kiss-sandbox.iam.gserviceaccount.com"
+}
