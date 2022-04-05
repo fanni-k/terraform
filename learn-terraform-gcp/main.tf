@@ -1,8 +1,8 @@
 provider "google" {
   credentials = file(var.credentials_file)
   project = var.project
-  region  = var.region
-  zone    = var.zone
+  region  = "europe-central2"
+  zone    = "europe-central2-a"
 }
 
 resource "google_bigquery_dataset" "dataset" {
